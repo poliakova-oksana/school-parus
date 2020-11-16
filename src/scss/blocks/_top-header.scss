@@ -1,0 +1,30 @@
+.top-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .logo {
+        img {
+
+        }
+    }
+
+    .menu {
+        li {
+            display: inline-block;
+            padding-right: 65px;
+
+            &:last-child {
+                padding-right: 0;
+            }
+
+            a {
+
+            }
+        }
+    }
+
+    .top-header-btn {
+
+    }
+}
